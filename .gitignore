@@ -66,6 +66,7 @@ Thumbs.db
 *.userosscache
 *.sln.docstates
 *.settings
+secrets.Designer.cs
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
