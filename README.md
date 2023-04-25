@@ -3,3 +3,4 @@ It launches the discord music bot "Liuk music!" thanks to the discord.net librar
 
 # Dependencies
 Discord.Net from the NuGet Package Manager
+Victoria C# from the NuGet Package Manager
